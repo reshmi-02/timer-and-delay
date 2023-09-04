@@ -1,0 +1,35 @@
+@media(min-width:320px){
+    .container{
+        width:90%;
+    }
+    .but input{
+        padding: 10px 10px;
+    }
+    .but{
+        padding: 0px 10px;
+    }
+}
+
+@media(min-width:660px){
+    .container{
+        width:80%;
+    }
+    .but input{
+        padding: 10px 20px;
+    }
+    .but{
+        padding: 0px 10px;
+    }
+}
+
+@media(min-width:1000px){
+    .container{
+        width:50%;
+    }
+    .but input{
+        padding: 10px 20px;
+    }
+    .but{
+        padding: 0px 10px;
+    }
+}
